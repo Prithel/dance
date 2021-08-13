@@ -1,0 +1,307 @@
+
+
+@media(min-width: 320px) and (max-width: 480px){
+ 
+
+.banner .inner-banner h1 {
+    font-size: 50px;
+    padding: 86px 0px 0px 0px;
+
+}
+.banner .inner-banner p {
+    font-size: 16px;
+    line-height: 25px;
+
+}
+
+.banner .inner-banner .btn-primary {
+    font-size: 14px;
+    padding: 5px 25px;
+}
+.dance-tour .card {
+    margin-bottom: 18px;
+}
+.dance-tour .tour-title h1 {
+    font-size: 45px;
+}
+.dance-tour .tour-title p {
+    font-size: 19px;
+    line-height: 22px;
+}
+
+.pricing .pricing-title h1 {
+    font-size: 45px;
+}
+.pricing .pricing-title p {
+    font-size: 19px;
+    line-height: 30px;
+}
+.pricing .card {
+    margin: 10px auto;
+}
+.amazing .right-dance {
+    padding: 20px 0px 0px 11px;
+}
+.amazing .right-dance h1 {
+    font-size: 40px;
+}
+.amazing .right-dance p {
+    font-size: 15px;
+    line-height: 30px;
+}
+
+.amazing .right-dance .btn-primary {
+    padding: 8px 30px;
+    margin: 5px 0px;
+    font-size: 16px;
+}
+
+.amimetion-number .animetion-title h1 {
+    font-size: 45px;
+}
+.amimetion-number .animetion-title p {
+    font-size: 19px;
+    line-height: 30px;
+}
+.middle-banner .middle-pera p {
+    font-size: 19px;
+    line-height: 35px;
+}
+
+.middle-banner .middle-pera h2 {
+    font-size: 45px;
+    padding: 30px 0px;
+}
+.subscribe .subscribe-title h1 {
+    padding-top: 50px;
+    font-size: 47px;
+}
+.subscribe .subscribe-title p {
+    font-size: 20px;
+    padding-top: 25px;
+    line-height: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+@media(min-width: 481px) and (max-width: 767px){
+
+.banner .inner-banner h1 {
+    font-size: 50px;
+    padding: 86px 0px 0px 0px;
+
+}
+.banner .inner-banner p {
+    font-size: 16px;
+    line-height: 25px;
+
+}
+
+.banner .inner-banner .btn-primary {
+    font-size: 14px;
+    padding: 5px 25px;
+}
+.dance-tour .card {
+    margin-bottom: 18px;
+}
+.dance-tour .tour-title h1 {
+    font-size: 45px;
+}
+.dance-tour .tour-title p {
+    font-size: 19px;
+    line-height: 22px;
+}
+
+.pricing .pricing-title h1 {
+    font-size: 45px;
+}
+.pricing .pricing-title p {
+    font-size: 19px;
+    line-height: 30px;
+}
+.pricing .card {
+    margin: 10px auto;
+}
+.amazing .right-dance {
+    padding: 20px 0px 0px 11px;
+}
+.amazing .right-dance h1 {
+    font-size: 40px;
+}
+.amazing .right-dance p {
+    font-size: 15px;
+    line-height: 30px;
+}
+
+.amazing .right-dance .btn-primary {
+    padding: 8px 30px;
+    margin: 5px 0px;
+    font-size: 16px;
+}
+
+.amimetion-number .animetion-title h1 {
+    font-size: 45px;
+}
+.amimetion-number .animetion-title p {
+    font-size: 19px;
+    line-height: 30px;
+}
+.middle-banner .middle-pera p {
+    font-size: 19px;
+    line-height: 35px;
+}
+
+.middle-banner .middle-pera h2 {
+    font-size: 45px;
+    padding: 30px 0px;
+}
+.subscribe .subscribe-title h1 {
+    padding-top: 50px;
+    font-size: 47px;
+}
+.subscribe .subscribe-title p {
+    font-size: 20px;
+    padding-top: 25px;
+    line-height: 30px;
+}
+
+
+
+}
+
+@media(min-width: 768px) and (max-width: 1024px){
+
+.banner .inner-banner h1 {
+    font-size: 50px;
+    padding: 86px 0px 0px 0px;
+
+}
+.banner .inner-banner p {
+    font-size: 16px;
+    line-height: 25px;
+
+}
+
+.banner .inner-banner .btn-primary {
+    font-size: 14px;
+    padding: 5px 25px;
+}
+.dance-tour .card {
+    margin-bottom: 18px;
+    width: 78%;
+    margin: auto;
+}
+.dance-tour .col-md-4 {
+    flex: 0 0 auto;
+    width: auto;
+    margin: auto;
+}
+.dance-tour .tour-title h1 {
+    font-size: 45px;
+}
+.dance-tour .tour-title p {
+    font-size: 19px;
+    line-height: 22px;
+}
+.pricing .col-md-4 {
+    flex: 0 0 auto;
+    width: auto;
+    margin: auto;
+}
+.pricing .pricing-title h1 {
+    font-size: 45px;
+}
+.pricing .pricing-title p {
+    font-size: 19px;
+    line-height: 30px;
+}
+.pricing .card {
+    margin: 10px auto;
+}
+.amazing .right-dance {
+    padding: 20px 0px 0px 11px;
+}
+.amazing .right-dance h1 {
+    font-size: 40px;
+}
+.amazing .right-dance p {
+    font-size: 15px;
+    line-height: 30px;
+}
+
+.amazing .right-dance .btn-primary {
+    padding: 8px 30px;
+    margin: 5px 0px;
+    font-size: 16px;
+}
+
+.amimetion-number .animetion-title h1 {
+    font-size: 45px;
+}
+.amimetion-number .animetion-title p {
+    font-size: 19px;
+    line-height: 30px;
+}
+.middle-banner .middle-pera p {
+    font-size: 19px;
+    line-height: 35px;
+}
+
+.middle-banner .middle-pera h2 {
+    font-size: 45px;
+    padding: 30px 0px;
+}
+.amimetion-number h6 {
+    font-size: 24px;
+}
+
+
+.subscribe .subscribe-title h1 {
+    padding-top: 50px;
+    font-size: 47px;
+}
+.subscribe .subscribe-title p {
+    font-size: 20px;
+    padding-top: 25px;
+    line-height: 30px;
+}
+.subscribe .form-control {
+    width: 100%;
+    padding: 10px 40px;
+    font-size: 21px;
+ 
+}
+.subscribe .btn-light {
+    padding: 9px 15px;
+    font-size: 22px;
+}
+
+.footer .inner-content {
+    padding-top: 13px;
+    font-size: 12px;
+}
+.footer .fmenu li {
+    line-height: 30px;
+}
+
+
+
+
+
+
+
+
+
+}
